@@ -1,16 +1,26 @@
-### Hi there 👋
+![Banner](https://wallpaperaccess.com/full/2471354.gif)
 
-<!--
-**gheorghe133/Gheorghe133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Gheorghe
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🌱 Currently learning Angular, Node.js, Java and Postgres to enhance my development skills.
+- 💡 I have a keen interest in data analysis, and building cross-platform applications.
+- 📫 You can reach me at dvndis.gheorghe@gmail.com
+
+
+## Languages and Tools
+
+- 🔧 HTML, CSS, SCSS, JavaScript, TypeScript
+- ⚙️ Front-end: Angular
+- 🛠 Back-end: Node.js
+- 🐘 Databases: PostgreSQL
+- 🧰 Version Control: Git
+
+
+## How to Find Me
+
+- 📧 [Email](mailto:dvndis.gheorghe@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/feed/)
