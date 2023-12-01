@@ -1,6 +1,6 @@
 ![Banner](https://wallpaperaccess.com/full/2471354.gif)
 
-# Hi there! 👋 I'm Gheorghe
+# Hi there! 👋 
 
 Welcome to my GitHub profile :)
 
@@ -8,8 +8,6 @@ Welcome to my GitHub profile :)
 
 - 🌱 Currently learning Angular, Node.js, Java and Postgres to enhance my development skills.
 - 💡 I have a keen interest in data analysis, and building cross-platform applications.
-- 📫 You can reach me at dvndis.gheorghe@gmail.com
-
 
 ## Languages and Tools
 
