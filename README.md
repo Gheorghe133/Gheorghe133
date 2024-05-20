@@ -6,16 +6,14 @@ Welcome to my GitHub profile :)
 
 ## About Me
 
-- 🌱 Currently learning Angular, Node.js, Java and Postgres to enhance my development skills.
-- 💡 I have a keen interest in data analysis, and building cross-platform applications.
+I am a software engineer who has worked extensively in developing applications and web services. I have a keen interest in exploring various domains, including data analysis, as well as architectural paradigms like microservices and serverless architectures.
 
 ## Languages and Tools
 
-- 🔧 HTML, CSS, SCSS, JavaScript, TypeScript
-- ⚙️ Front-end: Angular
-- 🛠 Back-end: Node.js
-- 🐘 Databases: PostgreSQL
-- 🧰 Version Control: Git
+- Front-end: Angular, ReactJS, Bulma, BootsTrap
+- Back-end: ExpressJS, Spring
+- Databases: PostgreSQL
+- Cloud: FireBase Services
 
 
 ## How to Find Me
