@@ -10,7 +10,7 @@ I am a software engineer who has worked extensively in developing applications a
 
 ## Languages and Tools
 
-- Front-end: Angular, ReactJS, Bulma, BootsTrap
+- Front-end: Angular, ReactJS, Bulma, Bootstrap
 - Back-end: ExpressJS, Spring
 - Databases: PostgreSQL
 - Cloud: FireBase Services
